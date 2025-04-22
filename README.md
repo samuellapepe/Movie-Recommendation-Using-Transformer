@@ -29,7 +29,7 @@ Berikut library utama yang digunakan:
 
 ## 🏁 **Cara Menjalankan**
 1. Clone repo ini:
-   ```bash
+```bash
 git clone https://github.com/username/movie-recommender-transformer.git
 cd movie-recommender-transformer
 ```
