@@ -29,8 +29,8 @@ Berikut library utama yang digunakan:
 
 ## 🏁 **Cara Menjalankan**
 1. Clone repo ini:
-<pre> ```git clone https://github.com/username/movie-recommender-transformer.git 
-  cd movie-recommender-transformer ``` </pre>
+<pre> git clone https://github.com/username/movie-recommender-transformer.git 
+  cd movie-recommender-transformer </pre>
 2. Jalankan notebook:
 * Buka Movie Recommendation Using Transformer.ipynb
 * Jalankan semua sel secara berurutan
