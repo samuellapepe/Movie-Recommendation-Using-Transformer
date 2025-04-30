@@ -36,8 +36,3 @@ cd movie-recommender-transformer
 2. Jalankan notebook:
 * Buka Movie Recommendation Using Transformer.ipynb
 * Jalankan semua sel secara berurutan
-
-👨‍👩‍👧‍👦 Anggota Kelompok
-* Samuella Dyas Bejanakasih Pepe - 6162001056
-* Nurul Mutiara Fadzriani Hazsanah - 6162001108
-* Nicolas Dennis - 6162001126
